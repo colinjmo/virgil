@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/colinjmo/virgil/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://static01.nyt.com/images/2021/11/28/obituaries/28Abloh/28Abloh-superJumbo.jpg"  width="330" height="500">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1 style="width:250px;background-color:silver;text-align:center">Virgil Abloh 9/30/80-11/28/21</h1>
 
-### Markdown
+<p style="width:500px;background-color:silver;text-align:center">
+Virgil Abloh was one of the most influential fashion designers of our era. He collaborated frequently with people like Kanye West, Ronnie Fieg, Drake, and many others. He was the head artistic director of Louis Vuitton from 2018 until he unfortunately passed away in 2021. He also created "Off-White" which has taken the scene by storm since 2013</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2 style="background-color:silver;text-align:center">Before the Fame</h2>
+<img src="http://www.milwaukeeindependent.com/wp-content/uploads/2021/12/112921_VirgilAbloh_seo.jpg" width="500" height="300">
+<p style="width:500px;background-color:silver;text-align:center">
+    Virgil Abloh was born on September 30, 1980 just outside of Chicago and was raised in Rockford, Illinois, a neighboring city to Chicago. Abloh graduated from the University of Wisconsin-Madison with a degree in civil engineering in 2002. He then got his masters in architecture from Illinois Institute of Technology in 2006. Abloh landed an internship with the designer brand, Fendi, in Rome where he met Kanye West who he later collaborated with frequently.</p>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<h2 style="background-color:silver;text-align:center">Collaboration</h2>
+<img src="https://data.nssmag.com/images/galleries/13824/virgil-abloh-kanye-west-five-nssmag.jpg" width="500" height="300">
 
-- Bulleted
-- List
+<p style="width:500px;background-color:silver;text-align:center">
+Virgil Abloh collaborated frequently with Kanye West. Virgil and Kanye were very prominent designers for Louis Vuitton for years. Virgil also created album cover art for some of the most popular artists. He designed Lil Uzi Vert's famous 'Luv Is Rage 2', Kanyes 'My Beautiful Dark Twisted Fantasy', Kid Cudi's 'WZRD' and many, many more.</p>
+    <h2 style="background-color:silver;text-align:center">"Off-White"</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A5lcVDCQ0ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<body style="background-color:border: solid 1px red; background: repeating-linear-gradient( to top right, #fff, #fff 20px, #000 20px, #000 40px); height: 200px; width: 200px;">
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/colinjmo/virgil/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
